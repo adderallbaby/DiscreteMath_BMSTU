@@ -1,7 +1,6 @@
 package main
 
 import "fmt"
-// Ну тут даже без комментариев)
 func ratatatata(exit [][]string, crossover [][]int, start int)  {
 	fmt.Println("digraph {")
 	fmt.Println("rankdir = LR")
@@ -39,4 +38,3 @@ func main() {
 	}
 	ratatatata(exit, crossover, start)
  }
- // петля» – подумал Штирлиц. В дверь постучали. «Временная
